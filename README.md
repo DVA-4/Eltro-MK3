@@ -5,7 +5,7 @@ the rotating-head tape pitch/time changer famously used to create HAL 9000's
 voice in *2001*.
 
 ![Eltro MK3 panel](hardware/panel/Eltro_MK3_panel_render.png)
-![Eltro MK3 panel](hardware/panel/Eltro_MK3.jpg)
+![Eltro MK3 overview](docs/images/Eltro_MK3.jpg)
 
 
 Live audio in → a buffered "tape" scanned by four virtual read heads → audio
