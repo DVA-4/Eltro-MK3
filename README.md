@@ -56,6 +56,6 @@ The skiff case is a remix of a third-party CC BY 4.0 design — see
   see `LICENSE-HARDWARE.md`
 
 ## Credits
-Built by [YOUR NAME]. Digital emulation of the Eltro Tempophon concept;
+Built by Fabian Rieber 2026 (DVA-4). Digital emulation of the Eltro Tempophon concept;
 "itty-bitty bits, cross-faded" description of the segment-crossfade
 mechanism is Wendy Carlos's, describing the original hardware.
