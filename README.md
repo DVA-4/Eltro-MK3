@@ -4,7 +4,7 @@ A Eurorack effects module: a digital emulation of the **Eltro Tempophon** —
 the rotating-head tape pitch/time changer famously used to create HAL 9000's
 voice in *2001*.
 
-![Eltro MK3 panel](docs/images/EltroMK3_speech_demo.MP4)
+[![Alt text](https://img.youtube.com/vi/IvSktSFwxQE/0.jpg)](https://www.youtube.com/watch?v=IvSktSFwxQE)
 ![Eltro MK3 panel](hardware/panel/Eltro_MK3_panel_render.png)
 ![Eltro MK3 overview](docs/images/Eltro_MK3.jpg)
 
